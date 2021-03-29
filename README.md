@@ -39,7 +39,7 @@ JobsCalc is a calculation estimation application for freelance projects, where i
 
 ## 🔖 Layout
 
-You can view the layout of the project through [this link](https://www.figma.com/file/s4fytPFbDiSkv4GPSfKaLE/Jobs-Planning). Account is required at [Figma](https://figma.com) to access it.
+You can view the layout of the project through [this link](https://www.figma.com/file/s4fytPFbDiSkv4GPSfKaLE/Jobs-Planning). A account is required at [Figma](https://figma.com) to access it.
 
 ## :memo: License
 
